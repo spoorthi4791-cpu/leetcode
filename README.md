@@ -48,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2315-count-asterisks](https://github.com/spoorthi4791-cpu/leetcode/tree/main/2315-count-asterisks/) | Easy |
 <!---LeetCode Topics End-->
