@@ -14,6 +14,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/spoorthi4791-cpu/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -43,4 +44,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/spoorthi4791-cpu/leetcode/tree/main/0035-search-insert-position/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
