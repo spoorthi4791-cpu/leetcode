@@ -9,6 +9,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -22,6 +23,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
