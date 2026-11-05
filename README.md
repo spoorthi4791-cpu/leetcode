@@ -9,6 +9,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
