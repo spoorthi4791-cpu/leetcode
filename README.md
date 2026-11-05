@@ -14,6 +14,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -51,5 +52,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2315-count-asterisks](https://github.com/spoorthi4791-cpu/leetcode/tree/main/2315-count-asterisks/) | Easy |
 <!---LeetCode Topics End-->
