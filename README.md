@@ -53,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/spoorthi4791-cpu/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/spoorthi4791-cpu/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/spoorthi4791-cpu/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2315-count-asterisks](https://github.com/spoorthi4791-cpu/leetcode/tree/main/2315-count-asterisks/) | Easy |
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/spoorthi4791-cpu/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/spoorthi4791-cpu/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/spoorthi4791-cpu/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
