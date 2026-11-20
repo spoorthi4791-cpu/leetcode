@@ -19,6 +19,7 @@
 | [1732-find-the-highest-altitude](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/spoorthi4791-cpu/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/spoorthi4791-cpu/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/spoorthi4791-cpu/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/spoorthi4791-cpu/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
